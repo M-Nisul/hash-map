@@ -1,0 +1,25 @@
+{
+  "name": "hash-map",
+  "version": "1.0.0",
+  "description": "Hash map project in The Odin Project curriculum",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/M-Nisul/hash-map.git"
+  },
+  "keywords": [
+    "hashmap",
+    "project",
+    "TOP"
+  ],
+  "author": "Nisul Munidasa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/M-Nisul/hash-map/issues"
+  },
+  "homepage": "https://github.com/M-Nisul/hash-map#readme",
+  "type": "module"
+}
